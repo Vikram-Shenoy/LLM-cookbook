@@ -1,2 +1,7 @@
 # LLM-cookbook
-Currently this is a cookbook for creating agentic workflows/systems using DeepSeek and Claude. This is a beginner guide for me to come back to.
+
+This is a reference guide for simple agentic workflow. It will lay out starter code for the 3 building blocks of AI systems:
+
+1. Retrieval
+2. Memory
+3. Tool use
