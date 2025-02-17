@@ -11,7 +11,11 @@ Image credits -  Anthropic: [Building effective agents](https://www.anthropic.co
 
 ### Possible agentic flows
 1. Multi-Agent
-   ![Screenshot 2025-02-17 181730](https://github.com/user-attachments/assets/127d05ad-b1a1-4a45-a8d8-0b4c7cf305ca)
+   
+   ![image](https://github.com/user-attachments/assets/688e2f97-5346-4865-97e4-07c5015b25b9)
+
 2. Supervised Agent
-   ![image](https://github.com/user-attachments/assets/85347bc7-acb2-40e1-8cfe-9e5bd83ec81a)
+   
+   ![image](https://github.com/user-attachments/assets/6c374053-e8d0-4da4-810e-41966c981c73)
+
 
